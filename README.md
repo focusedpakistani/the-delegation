@@ -99,4 +99,4 @@ This project follows a dual-licensing model:
 - **Source Code (MIT):** All logic, shaders, and UI code are free to use, modify, and distribute.
 - **3D Models & Assets (CC BY-NC 4.0):** The custom 3D office and character models are Copyright © 2026 **Arturo Paracuellos ([unboring.net](https://unboring.net))**. They are free for personal and educational use but _cannot_ be used for commercial purposes without permission.
 
-Developed with ❤️ by [Arturo Paracuellos](https://unboring.net)
+Developed with ❤️ by [Muhammad Awais](https://m-awais.netlify.app)
